@@ -1,5 +1,5 @@
 # coin-stats
 
-Statistics of top ranked cryptocurrencies page 
+Statistics of top ranked cryptocurrencies
 
-Coinpaprika API
+Materialize & Coinpaprika API
